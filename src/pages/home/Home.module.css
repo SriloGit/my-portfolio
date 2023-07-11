@@ -1,0 +1,27 @@
+.main {
+  width:80%;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.content {
+  padding: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.image {
+  width:300px;
+  border-radius: 50%;
+}
+
+.linkedin {  
+  width:50px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}

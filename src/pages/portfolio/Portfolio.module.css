@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  margin :auto;
+  justify-content: space-between;
+}
+
+.thumb {
+  width:30%;
+}
